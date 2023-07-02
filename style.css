@@ -79,3 +79,8 @@ main{
     box-sizing: border-box;
     user-select: none;
   }
+
+  .externo{
+    color: black;
+    text-align: center;
+  }
