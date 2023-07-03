@@ -89,3 +89,15 @@ main{
     color: black;
     text-align: center;
   }
+
+  footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 9px;
+}
+
+.white{
+    color: white;
+    font-size: 9px;
+}
