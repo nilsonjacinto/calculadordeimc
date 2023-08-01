@@ -17,7 +17,7 @@ main{
   .container{
     display: flex;
     flex-direction: column;
-    background: rgb(255, 47, 47);
+    background: rgb(185, 122, 122);
     width: 400px;
     height: 600px;
     align-items: center;
@@ -62,7 +62,7 @@ main{
     width: 300px;
     height: 40px;
     font: bold 1.2rem serif;
-    background:green;
+    background:rgba(0, 128, 0, 0.227);
     color:white;
     outline: none;
     border-radius: 5px;
@@ -78,7 +78,7 @@ main{
     border-radius: 5px;
     font: italic 1.5rem serif;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.296);
-    background: green;
+    background: rgba(68, 0, 128, 0.164);
     color: white;
     padding: 20px;
     box-sizing: border-box;
